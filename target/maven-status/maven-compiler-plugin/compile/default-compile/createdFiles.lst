@@ -1,0 +1,6 @@
+me\knovius\cpobounty\commands\bountyTopCommand.class
+me\knovius\cpobounty\data\PlayerManager.class
+me\knovius\cpobounty\placeholder\BountyPlaceHolder.class
+me\knovius\cpobounty\listener\PlayerQuitListener.class
+me\knovius\cpobounty\commands\adminBountyCommand.class
+me\knovius\cpobounty\CPOBounty.class
